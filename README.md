@@ -16,7 +16,7 @@ I'm Ola. I'm passionate about AI and robotics. Imagine designing machines that t
 * 🧠  I'm learning Deep Learning and Robotics Perspective
 * 🤝  I'm open to collaborating on SWE, AI, Hardware Projects and internships
 * ⚡  I put in my best, always.
-
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFJHUDnaemFWzOP1W_XXHqz4tafbvHYVzQUQ&s">
 ### Skills
 
 
