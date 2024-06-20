@@ -50,5 +50,6 @@ I'm Ola. I'm captivated by the potential of AI and robotics. Imagine designing m
 
 
 <p style="color: pink; font-weight: bold;">Have a good day :)</p>
-<img src="https://jokegenerator.vercel.app/api" alt="Jokes Card" style="border: 2px solid pink;" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 
