@@ -49,5 +49,6 @@ I'm Ola. I'm captivated by the potential of AI and robotics. Imagine designing m
 <a href="https://github.com/Olaudo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olaudo&langs_count=10&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-<p>Have a good day :)</p>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<p style="color: pink; font-weight: bold;">Have a good day :)</p>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="border: 2px solid pink;" />
+
