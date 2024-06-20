@@ -40,7 +40,7 @@ I'm Ola. I'm captivated by the potential of AI and robotics. Imagine designing m
 </div>
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Olaudo"><img src="https://github-readme-stats.vercel.app/api?username=Olaudo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=react&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Olaudo's GitHub stats" /></a>
+<a href="http://www.github.com/Olaudo"><img src="https://github-readme-stats.vercel.app/api?username=Olaudo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true&show_icons=true&theme=react&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Olaudo's GitHub stats" /></a>
 
 <a href="http://www.github.com/Olaudo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Olaudo&stroke=ec4899&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 
