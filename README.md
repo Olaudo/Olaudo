@@ -51,7 +51,7 @@ I'm passionate about AI and robotics. Imagine designing machines that think and 
 <a href="https://github.com/Olaudo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olaudo&langs_count=10&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-<b style="color: pink; font-weight: bold;">Have a good day :)</b>
+<p style="color: pink; font-weight: bold;">Here's a joke for you :)</p>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
