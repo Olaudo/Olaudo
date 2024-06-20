@@ -34,7 +34,7 @@ I'm Ola. I'm captivated by the potential of AI and robotics. Imagine designing m
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Olaudo/Olaudo/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
