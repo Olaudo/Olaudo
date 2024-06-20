@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Olaudo.Olaudo" />
-[!MasterHead] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kvep3aCTczALM0hZF55CZuX7ejzCR_2B6g&s)
+[![MasterHead] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kvep3aCTczALM0hZF55CZuX7ejzCR_2B6g&s)]
 <h1> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="animated gif"> My name is Ola Victor</h1>
 <img align="right" alt="AI" width="400" src= "https://s.yimg.com/ny/api/res/1.2/s0hn.uV1vnZFX7FsETUeng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://s.yimg.com/os/creatr-uploaded-images/2023-06/fff63b50-0943-11ee-a9dd-649a2dab66a0">
 ============================================================================================================
