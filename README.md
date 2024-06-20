@@ -2,14 +2,14 @@
 <p align="center">
   <img src="https://s.yimg.com/ny/api/res/1.2/s0hn.uV1vnZFX7FsETUeng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://s.yimg.com/os/creatr-uploaded-images/2023-06/fff63b50-0943-11ee-a9dd-649a2dab66a0" width = "1000" height="200">
 </p>
-<h1> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="animated gif"> My name is Ola Victor</h1>
+<h1> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="animated gif"> I'm Ola Victor</h1>
 <img align="right" alt="Coding" width="200" src="https://img.freepik.com/premium-photo/pink-robot-with-small-face-is-black-background_670382-16487.jpg">
 ============================================================================================================
 
 ✨AI & ML Enthusiast. Student Leader. Archer✨
 ------------------------------------------
 
-I'm Ola. I'm passionate about AI and robotics. Imagine designing machines that think and act with precision—whether it's fine-tuning machine learning models or crafting robots with advanced vision systems, every project fuels my curiosity and determination! In between coding sessions and lab experiments, I enjoy archery. I find the discipline and focus required oddly mirror my approach to engineering—each shot and line of code aiming for perfection.
+I'm passionate about AI and robotics. Imagine designing machines that think and act with precision—whether it's fine-tuning machine learning models or crafting robots with advanced vision systems, every project fuels my curiosity and determination! In between coding sessions and lab experiments, I enjoy archery. I find the discipline and focus required oddly mirror my approach to engineering—each shot and line of code aiming for perfection.
 
 * 🌍  I'm based in Georgia
 * ✉️  You can contact me at [ofoegbuvictorolaudo@gmail.com](mailto:ofoegbuvictorolaudo@gmail.com)
