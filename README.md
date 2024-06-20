@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Olaudo.Olaudo" />
-
+[!MasterHead] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kvep3aCTczALM0hZF55CZuX7ejzCR_2B6g&s)
 <h1> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="animated gif"> My name is Ola Victor</h1>
 <img align="right" alt="AI" width="400" src= "https://s.yimg.com/ny/api/res/1.2/s0hn.uV1vnZFX7FsETUeng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://s.yimg.com/os/creatr-uploaded-images/2023-06/fff63b50-0943-11ee-a9dd-649a2dab66a0">
 ============================================================================================================
@@ -49,7 +49,7 @@ I'm Ola. I'm captivated by the potential of AI and robotics. Imagine designing m
 <a href="https://github.com/Olaudo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olaudo&langs_count=10&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-<p style="color: pink; font-weight: bold;">Have a good day :)</p>
+<b style="color: pink; font-weight: bold;">Have a good day :)</b>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
