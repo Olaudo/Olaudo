@@ -9,7 +9,7 @@
 AI & ML Enthusiast. Student Leader. Archer
 ------------------------------------------
 
-I'm Ola. I'm captivated by the potential of AI and robotics. Imagine designing machines that think and act with precision—whether it's fine-tuning machine learning models or crafting robots with advanced vision systems, every project fuels my curiosity and determination. In between coding sessions and lab experiments, I enjoy archery. I find the discipline and focus required oddly mirror my approach to engineering—each shot and line of code aiming for perfection.
+I'm Ola. I'm passionate about AI and robotics. Imagine designing machines that think and act with precision—whether it's fine-tuning machine learning models or crafting robots with advanced vision systems, every project fuels my curiosity and determination! In between coding sessions and lab experiments, I enjoy archery. I find the discipline and focus required oddly mirror my approach to engineering—each shot and line of code aiming for perfection.
 
 * 🌍  I'm based in Georgia
 * ✉️  You can contact me at [ofoegbuvictorolaudo@gmail.com](mailto:ofoegbuvictorolaudo@gmail.com)
