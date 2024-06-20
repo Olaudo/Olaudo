@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Olaudo.Olaudo" />
 <p align="center">
-  <img src="ttps://s.yimg.com/ny/api/res/1.2/s0hn.uV1vnZFX7FsETUeng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://s.yimg.com/os/creatr-uploaded-images/2023-06/fff63b50-0943-11ee-a9dd-649a2dab66a0" width = "1000" height="200">
+  <img src="https://s.yimg.com/ny/api/res/1.2/s0hn.uV1vnZFX7FsETUeng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://s.yimg.com/os/creatr-uploaded-images/2023-06/fff63b50-0943-11ee-a9dd-649a2dab66a0" width = "1000" height="200">
 </p>
 <h1> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="animated gif"> My name is Ola Victor</h1>
 <img align="right" alt="AI" width="400" src= "https://s.yimg.com/ny/api/res/1.2/s0hn.uV1vnZFX7FsETUeng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://s.yimg.com/os/creatr-uploaded-images/2023-06/fff63b50-0943-11ee-a9dd-649a2dab66a0">
