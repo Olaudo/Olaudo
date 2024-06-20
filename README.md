@@ -38,18 +38,11 @@ I'm Ola. I'm captivated by the potential of AI and robotics. Imagine designing m
   
   <br/><br/><br/>
 </div>
-
 <b>My GitHub Stats</b>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Olaudo.vercel.app/?user=Olaudo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Olaudo.vercel.app/api?username=Olaudo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Olaudo.vercel.app/api/top-langs/?username=Olaudo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<br/><br/>
+<a href="http://www.github.com/Olaudo"><img src="https://github-readme-stats.vercel.app/api?username=Olaudo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Olaudo's GitHub stats" /></a>
 
+<a href="http://www.github.com/Olaudo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Olaudo&stroke=ec4899&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 
 <a href="http://www.github.com/Olaudo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Olaudo&bg_color=1c1917&color=ec4899&line=0891b2&point=ec4899&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
