@@ -39,6 +39,7 @@ I'm passionate about AI and robotics. Imagine designing machines that think and 
   
   <br/><br/><br/>
 </div>
+<a name="top"></a>
 I challenge you to a game of Tic-Tac-Toe. 
 ---
 <a name="root"></a><br/><br/><br/>
@@ -1945,7 +1946,7 @@ I challenge you to a game of Tic-Tac-Toe.
 ⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Care to play again?](#root)<br/><br/><br/>
 <a name="951"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Care to play again?](#root)<br/><br/><br/>
-
+<a name="bottom"></a>
 
 <b>My GitHub Stats</b>
 
