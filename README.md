@@ -1946,8 +1946,11 @@ I challenge you to a game of Tic-Tac-Toe.
 ⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Care to play again?](#root)<br/><br/><br/>
 <a name="951"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Care to play again?](#root)<br/><br/><br/>
-<a name="bottom"></a>
 
+---
+
+<a name="bottom"></a>
+[Take me to the top](#top)
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Olaudo"><img src="https://github-readme-stats.vercel.app/api?username=Olaudo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true&show_icons=true&theme=react&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Olaudo's GitHub stats" /></a>
